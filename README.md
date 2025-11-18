@@ -28,7 +28,7 @@ pip install openai tenacity tiktoken
 
 
 ## Usage
-```python
+```
 from openai_integration import OpenAIIntegration
 
 # Initialize integration
